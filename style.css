@@ -1,0 +1,53 @@
+body {
+    color: rgb(180, 48, 48);
+    font-weight: bold;
+    background-image: url("https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv_h5aCAQ07JlQB5OL9KlEw1faaKTwQ7o-0w9GJxK72YuvUzmgCvZx12b2Wo96i0Rq-uxSyLaPS-g")
+}
+header img {
+    width: 40%;
+    height: 110px;
+    margin-left: 45%;
+}
+.head-tytle h1 {
+   
+    margin-left: 20%;
+}
+section {
+    width:70%;
+    margin-left: 40%;
+}
+.character{
+  
+   font-weight: bold;
+   text-align: center;
+   display: inline-block;
+   width: 20%;
+   padding: 0;
+}
+#player1 {
+    float: left;
+}
+.image {
+    width: 140px;
+    height: 160px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.you {
+    padding:10%;
+    float:left;
+} 
+.button img {
+    width: 20%;
+}
+footer {
+    position: absolute;
+    left: 30px;
+    bottom: 30px;
+    padding: 10px;
+    text-align: center;
+    
+}
+footer #reset {
+    width: 20%;
+}
